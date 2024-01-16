@@ -3,51 +3,39 @@
 ############################################################################ Canais | FAVORITOS
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | FAVORITOS",History
-http://srv.polkafood.pl:80/ricardoromanzzaLG/thmpv77d6f/83819
+http://voz.one:80/alexfnt/vTFBGKdUYq/13893
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | FAVORITOS",History
-http://main.xplus2-main.xyz:2082/Tourobox2-I0wx0BtUsL/PkR1Jp7P8A/83
+#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | FAVORITOS",CineFlix Policial
+http://c.strzzi.site:80/69754974281040/247129511903/3718407
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FAVORITOS",Universal Channel FHD
-http://srv.polkafood.pl:80/ricardoromanzzaLG/thmpv77d6f/83427
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FAVORITOS",Universal Channel
+http://voz.one:80/alexfnt/vTFBGKdUYq/89355
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FAVORITOS",Universal Channel TV FHD [H265]
-http://main.xplus2-main.xyz:2082/Tourobox2-I0wx0BtUsL/PkR1Jp7P8A/319
-
-#EXTINF:-1 tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FAVORITOS",MEGAPIX HD
-http://main.xplus2-main.xyz:2082/Tourobox2-I0wx0BtUsL/PkR1Jp7P8A/270
+#EXTINF:-1 tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FAVORITOS",MEGAPIX
+http://voz.one:80/alexfnt/vTFBGKdUYq/233
 
 #EXTINF:-1 tvg-id="" tvg-name="Chocolate com Pimenta 24 HORAS" tvg-logo="" group-title="Canais | FAVORITOS",Chocolate com Pimenta 24 HORAS
 http://meumd.com:80/marcaltrigueiro/mtec1300/248920
 
 ############################################################################ Canais | ABERTO
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais | ABERTO",Record AL
-http://tv.com.vc:80/luciana123/luciana123/969518
-
 #EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais | ABERTO",Record SP HD
 http://51.83.238.223:16141
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais | ABERTO",Record SP HD
-http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/14539
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynJoltT.png" group-title="Canais | ABERTO",TV Novo Tempo HD
-http://main.xplus2-main.xyz:2082/Tourobox2-I0wx0BtUsL/PkR1Jp7P8A/556
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynJoltT.png" group-title="Canais | ABERTO",TV Novo Tempo HD
-http://iptvtree.net:8080/Company/bkarHF3r4NAVj9uj/7411
+http://voz.one:80/alexfnt/vTFBGKdUYq/65397
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",GB TV Gazeta Alagoas HD
-http://meumd.com:80/marcaltrigueiro/mtec1300/181160
+http://voz.one:80/alexfnt/vTFBGKdUYq/58825
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP HD
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TGFXo3M.png" group-title="Canais | ABERTO",SBT SP 4K
-http://main.xplus2-main.xyz:2082/Tourobox2-I0wx0BtUsL/PkR1Jp7P8A/534
+http://voz.one:80/alexfnt/vTFBGKdUYq/303
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",Rede TV 4K
-http://main.xplus2-main.xyz:2082/Tourobox2-I0wx0BtUsL/PkR1Jp7P8A/532
+http://voz.one:80/alexfnt/vTFBGKdUYq/236
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="Canais | ABERTO",CATVE TV Cultura HD
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
@@ -55,7 +43,7 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 ############################################################################ CANAIS DE NOTÍCIAS 
 
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://imgur.com/JfZh8pI.png" group-title="Canais | NOTÍCIAS",JP NEWS HD
-http://main.xplus2-main.xyz:2082/Tourobox2-I0wx0BtUsL/PkR1Jp7P8A/846
+http://voz.one:80/alexfnt/vTFBGKdUYq/71487
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN BRASIL HD
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
@@ -64,10 +52,10 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
 http://209.222.97.92:16436/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",BAND News FHD [H265]
-http://main.xplus2-main.xyz:2082/Tourobox2-I0wx0BtUsL/PkR1Jp7P8A/482
+http://voz.one:80/alexfnt/vTFBGKdUYq/13852
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YG0hTYc.png" group-title="Canais | NOTÍCIAS" ,Record News HD
-http://main.xplus2-main.xyz:2082/Tourobox2-I0wx0BtUsL/PkR1Jp7P8A/451
+http://voz.one:80/alexfnt/vTFBGKdUYq/689
 
 ############################################################################ Canais | DOCUMENTARIOS
 
