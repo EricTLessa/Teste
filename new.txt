@@ -17,6 +17,58 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/233
 #EXTINF:-1 tvg-id="" tvg-name="Chocolate com Pimenta 24 HORAS" tvg-logo="" group-title="Canais | FAVORITOS",Chocolate com Pimenta 24 HORAS
 http://meumd.com:80/marcaltrigueiro/mtec1300/248920
 
+############################################################################ Canais | LEG
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | LEG",Star Channel
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118894
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | LEG",HBO
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118896
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | LEG",HBO Xtreme
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118899
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | LEG",Telecine Action 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118902
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | LEG",Telecine Cult 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118903
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | LEG",Telecine Fun 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118906
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | LEG",Telecine Pipoca
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118908
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | LEG",Telecine Premium 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118910
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | LEG",Telecine Touch 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118912
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | LEG",TNT 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118914
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | LEG",FX 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118916
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | LEG",HBO Pop 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118918
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | LEG",Megapix 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118920
+
+#EXTINF:-1 tvg-id="" tvg-name="Space FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | LEG",Space 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118922
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="Canais | LEG",TNT Series 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118924
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel FHD [LEG ]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | LEG",Warner Channel 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118926
+
+
+
 ############################################################################ Canais | ABERTO
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais | ABERTO",Record SP HD
@@ -611,60 +663,60 @@ https://stmv1.srvstm.com/bruno4723/bruno4723/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yF42kfj.png" group-title="Canais | MÚSICA",POP PEGAJOSO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 
-############################################################################ CANAIS | LEGENDADOS
+############################################################################ CANAIS | LEG
 
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD [LEG]" tvg-logo="https://i.imgur.com/WwuHk2G.png" group-title="CANAIS | LEGENDADOS",AXN FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD [LEG]" tvg-logo="https://i.imgur.com/WwuHk2G.png" group-title="CANAIS | LEG",AXN FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109567
 
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="CANAL SONY FHD [LEG]" tvg-logo="https://i.imgur.com/AXkkApE.png" group-title="CANAIS | LEGENDADOS",CANAL SONY FHD [LEG]
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="CANAL SONY FHD [LEG]" tvg-logo="https://i.imgur.com/AXkkApE.png" group-title="CANAIS | LEG",CANAL SONY FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109564
 
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD [LEG]" tvg-logo="https://i.imgur.com/E8bY4cB.png" group-title="CANAIS | LEGENDADOS",FX FHD [LEG]
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD [LEG]" tvg-logo="https://i.imgur.com/E8bY4cB.png" group-title="CANAIS | LEG",FX FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109561
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO+ FHD [LEG]" tvg-logo="http://mundoplay.store/canais/hbo+.png" group-title="CANAIS | LEGENDADOS",HBO+ FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="HBO+ FHD [LEG]" tvg-logo="http://mundoplay.store/canais/hbo+.png" group-title="CANAIS | LEG",HBO+ FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109544
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO FHD [LEG]" tvg-logo="http://mundoplay.store/canais/hbo.png" group-title="CANAIS | LEGENDADOS",HBO FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD [LEG]" tvg-logo="http://mundoplay.store/canais/hbo.png" group-title="CANAIS | LEG",HBO FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109558
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD [LEG]" tvg-logo="http://mundoplay.store/canais/hbomundi.png" group-title="CANAIS | LEGENDADOS",HBO MUNDI FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD [LEG]" tvg-logo="http://mundoplay.store/canais/hbomundi.png" group-title="CANAIS | LEG",HBO MUNDI FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109557
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP FHD [LEG]" tvg-logo="http://mundoplay.store/canais/hbopop.png" group-title="CANAIS | LEGENDADOS",HBO POP FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP FHD [LEG]" tvg-logo="http://mundoplay.store/canais/hbopop.png" group-title="CANAIS | LEG",HBO POP FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109553
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD [LEG]" tvg-logo="http://mundoplay.store/canais/hbo_signature.png" group-title="CANAIS | LEGENDADOS",HBO SIGNATURE FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD [LEG]" tvg-logo="http://mundoplay.store/canais/hbo_signature.png" group-title="CANAIS | LEG",HBO SIGNATURE FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109550
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD [LEG]" tvg-logo="http://mundoplay.store/canais/hboxtreme.png" group-title="CANAIS | LEGENDADOS",HBO XTREME FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD [LEG]" tvg-logo="http://mundoplay.store/canais/hboxtreme.png" group-title="CANAIS | LEG",HBO XTREME FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109547
 
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX FHD [LEG]" tvg-logo="https://i.imgur.com/gyd4IIM.png" group-title="CANAIS | LEGENDADOS",MEGAPIX FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX FHD [LEG]" tvg-logo="https://i.imgur.com/gyd4IIM.png" group-title="CANAIS | LEG",MEGAPIX FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109519
 
-#EXTINF:-1 tvg-id="" tvg-name="SPACE FHD [LEG]" tvg-logo="https://i.imgur.com/MtbnouX.png" group-title="CANAIS | LEGENDADOS",SPACE FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="SPACE FHD [LEG]" tvg-logo="https://i.imgur.com/MtbnouX.png" group-title="CANAIS | LEG",SPACE FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109516
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD [LEG]" tvg-logo="https://i.imgur.com/zFKn3pg.png" group-title="CANAIS | LEGENDADOS",STAR CHANNEL FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD [LEG]" tvg-logo="https://i.imgur.com/zFKn3pg.png" group-title="CANAIS | LEG",STAR CHANNEL FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109506
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION FHD [LEG]" tvg-logo="https://i.imgur.com/gLRElJ3.png" group-title="CANAIS | LEGENDADOS",TELECINE ACTION FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION FHD [LEG]" tvg-logo="https://i.imgur.com/gLRElJ3.png" group-title="CANAIS | LEG",TELECINE ACTION FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109521
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT FHD [LEG]" tvg-logo="https://i.imgur.com/PJJjkpp.png" group-title="CANAIS | LEGENDADOS",TELECINE CULT FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT FHD [LEG]" tvg-logo="https://i.imgur.com/PJJjkpp.png" group-title="CANAIS | LEG",TELECINE CULT FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109524
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN FHD [LEG]" tvg-logo="https://i.imgur.com/NTx3wBd.png" group-title="CANAIS | LEGENDADOS",TELECINE FUN FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN FHD [LEG]" tvg-logo="https://i.imgur.com/NTx3wBd.png" group-title="CANAIS | LEG",TELECINE FUN FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109527
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA FHD [LEG]" tvg-logo="https://i.imgur.com/lJJUixj.png" group-title="CANAIS | LEGENDADOS",TELECINE PIPOCA FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA FHD [LEG]" tvg-logo="https://i.imgur.com/lJJUixj.png" group-title="CANAIS | LEG",TELECINE PIPOCA FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109530
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT FHD [LEG]" tvg-logo="https://i.imgur.com/9ktzi8s.png" group-title="CANAIS | LEGENDADOS",TNT FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD [LEG]" tvg-logo="https://i.imgur.com/9ktzi8s.png" group-title="CANAIS | LEG",TNT FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109504
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES FHD [LEG]" tvg-logo="https://i.imgur.com/3LQg7EY.png" group-title="CANAIS | LEGENDADOS",TNT SERIES FHD [LEG]
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES FHD [LEG]" tvg-logo="https://i.imgur.com/3LQg7EY.png" group-title="CANAIS | LEG",TNT SERIES FHD [LEG]
 http://meumd.com:80/marcaltrigueiro/mtec1300/109501
 
 
