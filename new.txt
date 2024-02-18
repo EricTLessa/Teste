@@ -2,20 +2,28 @@
 
 ############################################################################ Canais | FAVORITOS
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | FAVORITOS",History
-http://voz.one:80/alexfnt/vTFBGKdUYq/13893
+#EXTINF:-1  tvg-logo="https://imgur.com/f35UF5q.png" group-title="Canais | FILMES E SERIES",MyTime Movies
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | FAVORITOS",CineFlix Policial
-http://c.strzzi.site:80/69754974281040/247129511903/3718407
+#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | FAVORITOS",History
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FAVORITOS",Universal Channel
-http://voz.one:80/alexfnt/vTFBGKdUYq/89355
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/743
 
 #EXTINF:-1 tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FAVORITOS",MEGAPIX
-http://voz.one:80/alexfnt/vTFBGKdUYq/233
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/691
 
 #EXTINF:-1 tvg-id="" tvg-name="Chocolate com Pimenta 24 HORAS" tvg-logo="" group-title="Canais | FAVORITOS",Chocolate com Pimenta 24 HORAS
 http://meumd.com:80/marcaltrigueiro/mtec1300/248920
+
+############################################################################ Canais | REALITY BBB 24
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 1 HD
+https://cr7v.short.gy/manotv/BBBc1/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 2 HD
+https://cr7v.short.gy/manotv/BBBc2/Index.m3u8
 
 ############################################################################ Canais | LEG
 
@@ -75,19 +83,19 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118926
 http://51.83.238.223:16141
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynJoltT.png" group-title="Canais | ABERTO",TV Novo Tempo HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65397
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/202
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",GB TV Gazeta Alagoas HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/58825
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2440
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP HD
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TGFXo3M.png" group-title="Canais | ABERTO",SBT SP 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/303
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244161
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",Rede TV 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/236
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/80170
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="Canais | ABERTO",CATVE TV Cultura HD
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
@@ -430,8 +438,7 @@ http://srv.polkafood.pl:80/ricardoromanzzaLG/thmpv77d6f/83427
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD
 http://main.xplus2-main.xyz:2082/Tourobox2-I0wx0BtUsL/PkR1Jp7P8A/351
 
-#EXTINF:-1  tvg-logo="https://imgur.com/f35UF5q.png" group-title="Canais | FILMES E SERIES",MyTime Movies
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="Canais | FILMES E SERIES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
