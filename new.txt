@@ -15,7 +15,7 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4909
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6818
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lnAGp2JZZqyOLv-NrHDDYXvHNEfJBGBksoPru2DUmrfVvmwhtptUtbjcG5e580a5prms" group-title="Canais | FAVORITOS",ADULT SWIN
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7933
+http://s.apkwuv.xyz/live/demopadexchange/demopad/147723.ts
 
 ############################################################################ Canais | ABERTO
 
@@ -64,6 +64,12 @@ https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="Canais | ABERTO",Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kjL8Dvg.png" group-title="Canais | ABERTO",Seven TV
+https://video01.kshost.com.br/aubrey3291/aubrey3291/playlist.m3u8?t=1698888926
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJwljjR.png" group-title="Canais | ABERTO",TV Channel Network 
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 
 ############################################################################ CANAIS DE NOTÍCIAS 
 
@@ -128,6 +134,12 @@ http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="Canais | DOCUMENTARIOS",ANIMAL PLANET
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO 4K" tvg-logo="https://i.imgur.com/Ktbok01.png" group-title="Canais | DOCUMENTARIOS",NATGEO 4K
+http://meumd.com:80/marcaltrigueiro/mtec1300/108961
+
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF 4K" tvg-logo="https://i.imgur.com/gER9WeJ.png" group-title="Canais | DOCUMENTARIOS",OFF 4K
+http://meumd.com:80/marcaltrigueiro/mtec1300/110267
 
 ############################################################################ Canais | REALITY 
 
@@ -413,6 +425,12 @@ http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
 
 #EXTINF:-1 group-title="Canais | 24H",[24H] Todo Mundo Odeia o Chris 1
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Chaves 24 HORAS" tvg-logo="" group-title="Canais | 24H",Chaves 24 HORAS
+http://meumd.com:80/marcaltrigueiro/mtec1300/248854
+
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Serie Animada 24 HORAS" tvg-logo="" group-title="Canais | 24H",X-Men: Serie Animada 24 HORAS
+http://meumd.com:80/marcaltrigueiro/mtec1300/248852
 
 ############################################################################ Canais | INTERNACIONAL
 
