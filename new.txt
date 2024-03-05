@@ -26,6 +26,9 @@ https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",TV GAZETA ALAGOAS
+http://meumd.com:80/marcaltrigueiro/mtec1300/108913
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",TV GAZETA ALAGOAS
 http://s.apkwuv.xyz:80/demopadexchange/demopad/162791
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP HD
