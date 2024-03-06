@@ -495,20 +495,20 @@ https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8?ManoTV
 
 ############################################################################ Canais | ADULTO
 
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",SEXY HOT
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7371
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 00
+http://live.adultiptv.net/livecams.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 01
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6652
+http://live.adultiptv.net/anal.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 02
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6656
+http://live.adultiptv.net/latina.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 03
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6658
+http://live.adultiptv.net/compilation.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 04
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6662
+http://live.mycamtv.com/teen.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 05
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6663
@@ -517,22 +517,22 @@ http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6663
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6664
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 07
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6666
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/72974
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 08
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6677
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/72809
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 09
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6682
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61525
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 10
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6683
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61489
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 11
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6686
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61478
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 12
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6728
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61476
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 13
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/72986
