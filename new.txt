@@ -511,10 +511,10 @@ http://live.adultiptv.net/compilation.m3u8
 http://live.mycamtv.com/teen.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 05
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6663
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/60679
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 06
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6664
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/60687
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 07
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/72974
@@ -547,10 +547,20 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/72982
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/72977
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 17
-http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/227327
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/2981
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 18
-http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/227322
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/2978
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 19
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/2966
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 20
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/2958
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 21
+http://newlife3.wanicelife.com:8880/12mmk110068/37783517/33148
+
 
 ############################################################################  LOKI S01
 
