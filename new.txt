@@ -511,19 +511,19 @@ http://live.adultiptv.net/compilation.m3u8
 http://live.mycamtv.com/teen.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 05
-http://newlife3.wanicelife.com:8880/12mmk110068/37783517/60679
+http://live.adultiptv.net/bigdick.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 06
-http://newlife3.wanicelife.com:8880/12mmk110068/37783517/60687
+http://live.adultiptv.net/pornstar.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 07
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/72974
+http://live.adultiptv.net/anal.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 08
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/72809
+http://live.adultiptv.net/compilation.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 09
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61525
+http://live.mycamtv.com/milf.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 10
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61489
