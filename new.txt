@@ -3137,5 +3137,96 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea800073907
 https://i.mjh.nz/PlutoTV/63dac28760bc8f0008a7654b-alt.m3u8
 
 
+############################################################################ Canais | ADULTO
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 00
+http://live.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 01
+http://live.adultiptv.net/anal.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 02
+http://live.adultiptv.net/latina.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 03
+http://live.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 04
+http://live.mycamtv.com/teen.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 05
+http://live.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 06
+http://live.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 07
+http://live.adultiptv.net/anal.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 08
+http://live.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 09
+http://live.mycamtv.com/milf.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 10
+http://live.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 11
+http://live.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 12
+http://live.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 13
+http://live.adultiptv.net/latina.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 14
+http://live.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 15
+http://live.adultiptv.net/teen.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 16
+http://live.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 17
+http://live.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 18
+http://live.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 19
+http://live.adultiptv.net/anal.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 20
+http://live.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 21
+http://live.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 22
+https://live.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 23
+http://live.adultiptv.net/anal.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 24
+http://emuligl.info:8080/tviritv/td6522SNAtHt/227318
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 25
+http://emuligl.info:8080/tviritv/td6522SNAtHt/227321
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 26
+http://emuligl.info:8080/tviritv/td6522SNAtHt/227324
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 27
+http://emuligl.info:8080/tviritv/td6522SNAtHt/227325
+
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 28
+http://emuligl.info:8080/tviritv/td6522SNAtHt/227337
+
+
+
 
 
