@@ -490,10 +490,10 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
 ############################################################################ Canais | VARIEDADES
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="Canais | VARIEDADES",Oportunidades TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ju7Ed2g.png" group-title="Canais | VARIEDADES",Oportunidades TV HD
 http://maistop.net:80/live/free/free/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="Canais | VARIEDADES",Oportunidades TV FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ju7Ed2g.png" group-title="Canais | VARIEDADES",Oportunidades TV FHD
 http://maistop.net:80/live/free/free/1.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow SD
@@ -1563,15 +1563,15 @@ http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8?token=a4A2wbotS3
 https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/oiyGlGY.png" group-title="Canais | ABERTO",RTN TV SP HD
-https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
+https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YXvSdlo.png" group-title="Canais | ABERTO",ESFLIX TV
 https://acesso.ecast.site:3186/live/esflixlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="Canais | ABERTO",Oportunidades TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ju7Ed2g.png" group-title="Canais | ABERTO",Oportunidades TV HD
 http://maistop.net:80/live/free/free/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="Canais | ABERTO",Oportunidades TV FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ju7Ed2g.png" group-title="Canais | ABERTO",Oportunidades TV FHD
 http://maistop.net:80/live/free/free/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="Canais | ABERTO",TV Novo Tempo SD
@@ -1719,6 +1719,9 @@ https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/550918304441506960454875.
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",AgroMais HD
+https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",AgroMais HD [Alter]
 http://187.95.95.243/AgroMais-HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3g7ijoK.png" group-title="Canais | ABERTO",XR HEALTH BRASIL

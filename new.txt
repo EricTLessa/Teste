@@ -146,11 +146,14 @@ http://meumd.com:80/marcaltrigueiro/mtec1300/110267
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Canais | REALITY",SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PMoE3nJ.png" group-title="Canais | REALITY",BBB CAM 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMoE3nJ.png" group-title="Canais | REALITY",BBB Cam 1 HD
 https://cr7v.short.gy/manoiptv/BBBc1/Index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PMoE3nJ.png" group-title="Canais | REALITY",BBB CAM 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMoE3nJ.png" group-title="Canais | REALITY",BBB Cam 2 HD
 https://cr7v.short.gy/manoiptv/BBBc2/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kCfvcgJ.png" group-title="Canais | REALITY",WebTVBrasileira YT
+https://ythls.armelin.one/channel/UC0LlPl_mWhIFqVxcH1l3xpQ.m3u8
 
 ############################################################################ CANAIS ESPORTES
 
