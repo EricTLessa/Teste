@@ -2998,22 +2998,22 @@ https://live.adultiptv.net/livecams.m3u8
 http://live.adultiptv.net/anal.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 24
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1319
+http://gustvplay.com:8080/tvpremiumcol/fs3XtkWUVXpj/1316
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 25
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1323
+http://gustvplay.com:8080/tvpremiumcol/fs3XtkWUVXpj/1319
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 26
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1327
+http://gustvplay.com:8080/tvpremiumcol/fs3XtkWUVXpj/1323
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 27
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1332
+http://gustvplay.com:8080/tvpremiumcol/fs3XtkWUVXpj/1328
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 28
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1353
+http://gustvplay.com:8080/tvpremiumcol/fs3XtkWUVXpj/1332
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 29
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/80743
+http://gustvplay.com:8080/pandconv3/HTVFuZ5PePNG/80743
 
 
 
