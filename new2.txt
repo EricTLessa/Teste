@@ -2299,25 +2299,25 @@ http://live.mycamtv.com/milf.m3u8
 http://live.adultiptv.net/bigdick.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 11
-http://live.adultiptv.net/fetish.m3u8
+http://voz.one:80/marcosfont/YSqcT2CKUUph/260407
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 12
-http://live.adultiptv.net/pornstar.m3u8
+http://voz.one:80/marcosfont/YSqcT2CKUUph/56243
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 13
-http://live.adultiptv.net/latina.m3u8
+http://voz.one:80/marcosfont/YSqcT2CKUUph/260411
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 14
-http://live.adultiptv.net/blowjob.m3u8
+http://voz.one:80/marcosfont/YSqcT2CKUUph/260416
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 15
-http://live.adultiptv.net/teen.m3u8
+http://voz.one:80/marcosfont/YSqcT2CKUUph/260418
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 16
-http://live.adultiptv.net/hardcore.m3u8
+http://voz.one:80/marcosfont/YSqcT2CKUUph/260419
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 17
-http://live.adultiptv.net/cuckold.m3u8
+http://voz.one:80/marcosfont/YSqcT2CKUUph/260421
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 18
 http://live.adultiptv.net/gangbang.m3u8

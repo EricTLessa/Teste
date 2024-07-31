@@ -2998,19 +2998,19 @@ https://live.adultiptv.net/livecams.m3u8
 http://live.adultiptv.net/anal.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 24
-http://gustvplay.com:8080/tvpremiumcol/fs3XtkWUVXpj/1316
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/1690.ts
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 25
-http://gustvplay.com:8080/tvpremiumcol/fs3XtkWUVXpj/1319
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/17511.ts
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 26
-http://gustvplay.com:8080/tvpremiumcol/fs3XtkWUVXpj/1323
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/1685.ts
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 27
-http://gustvplay.com:8080/tvpremiumcol/fs3XtkWUVXpj/1328
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/1687.ts
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 28
-http://gustvplay.com:8080/tvpremiumcol/fs3XtkWUVXpj/1332
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/31310.ts
 
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/135/135701.png" group-title="Canais | ADULTO",ADULTO 29
 http://gustvplay.com:8080/pandconv3/HTVFuZ5PePNG/80743
